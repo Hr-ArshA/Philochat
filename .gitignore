@@ -1,6 +1,8 @@
 # Created by PhiloLearn
 
 ## Development files ##
+
+venv
 .env
 
 ### PYTHON ###
