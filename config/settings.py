@@ -33,6 +33,8 @@ DEBUG = env('DEBUG')
 ALLOWED_HOSTS = []
 
 
+AUTH_USER_MODEL = "account.User"
+
 # Application definition
 
 INSTALLED_APPS = [
@@ -45,6 +47,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'chat',
+    'account',
 ]
 
 MIDDLEWARE = [
