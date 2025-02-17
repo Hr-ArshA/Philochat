@@ -1,5 +1,3 @@
-# README.md
-
 # PhiloChat
 
 PhiloChat is a real-time chat application built with Django and Django Channels. It allows users to engage in private and group chats using WebSockets for seamless communication. The project is containerized using Docker for easy deployment and comes with PostgreSQL and Redis integration.
@@ -21,7 +19,7 @@ PhiloChat is a real-time chat application built with Django and Django Channels.
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/Hr-ArshA/simple-chat.git
+git clone https://github.com/Hr-ArshA/Philochat.git
 cd philochat
 ```
 
